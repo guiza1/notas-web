@@ -1,0 +1,3 @@
+# notas-web
+
+Página estática.
